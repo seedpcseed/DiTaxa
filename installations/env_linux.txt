@@ -7,15 +7,15 @@ https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2018.8.24-ha4d76
 https://repo.anaconda.com/pkgs/main/linux-64/intel-openmp-2019.0-118.tar.bz2#13bc2b14e1727a744e6ec91358db9b68
 https://repo.anaconda.com/pkgs/main/linux-64/libgcc-ng-8.2.0-hdf63c60_1.tar.bz2#7d17c0d663e285a5e6cd7bfa8eed1cd8
 https://conda.anaconda.org/conda-forge/linux-64/libgfortran-3.0.0-1.tar.bz2#d7c7e92a8ccc518709474dd3eda896b9
-https://conda.anaconda.org/conda-forge/linux-64/libgfortran-ng-7.2.0-hdf63c60_3.tar.bz2#249575a07286c1500173c6afb0567825
-https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-7.2.0-hdf63c60_3.tar.bz2#6b28769c1660675dfb38d1c36df7f1f2
+https://anaconda.org/conda-forge/libgfortran-ng/7.2.0/download/linux-64/libgfortran-ng-7.2.0-hdf63c60_3.tar.bz2
+https://anaconda.org/Alges/libstdcxx-ng/7.2.0/download/linux-64/libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/expat-2.2.5-hfc679d8_2.tar.bz2#43069dd5155224a91ac74f543d1d8dc5
 https://conda.anaconda.org/conda-forge/linux-64/gettext-0.19.8.1-h5e8e0c9_1.tar.bz2#c0a4cac8bb0f7590531ef384becf5e0b
 https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-hfc679d8_0.tar.bz2#e17d61a82f7b047eefca832b07ed8846
-https://conda.anaconda.org/conda-forge/linux-64/jpeg-9c-h470a237_1.tar.bz2#785c0bbc9297a6a5978fbea34656ab7c
+https://anaconda.org/ehmoussi/jpeg/9c/download/linux-aarch64/jpeg-9c-hda93590_1001.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-hfc679d8_5.tar.bz2#083e0d4de290fdaf3c8bc582efe9f619
 https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-h470a237_3.tar.bz2#99a4b5c7617eb0907ab0cb6f59930ba3
-https://conda.anaconda.org/conda-forge/linux-64/libuuid-2.32.1-h470a237_2.tar.bz2#81cb89240914df986735172eb3c655f0
+https://anaconda.org/conda-forge/libuuid/2.32.1/download/linux-aarch64/libuuid-2.32.1-h14c3975_1000.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/mkl-2019.0-118.tar.bz2#d9b390b4e4ced0feead46ead384d9e6b
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.1-hfc679d8_1.tar.bz2#d017e2ad96daad008a35f156af08e354
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.0.2p-h470a237_0.tar.bz2#6ae99371c18aceb7d80babd19d02a760
@@ -58,7 +58,7 @@ https://conda.anaconda.org/conda-forge/noarch/pyparsing-2.2.1-py_0.tar.bz2#a865c
 https://conda.anaconda.org/conda-forge/linux-64/pysocks-1.6.8-py36_2.tar.bz2#7e99360ea971aa1a91cdb06cbc210a70
 https://conda.anaconda.org/conda-forge/linux-64/python-crfsuite-0.9.6-py36h470a237_0.tar.bz2#6d7f6fcd7ccf0cba9a5b240dc7c9540f
 https://conda.anaconda.org/conda-forge/noarch/pytz-2018.5-py_0.tar.bz2#b35ae72a3713493e82578a00e7da6861
-https://conda.anaconda.org/conda-forge/linux-64/qt-5.6.2-hf70d934_9.tar.bz2#948c4cb6f4c2a7ddabde8c1610e7713d
+https://anaconda.org/conda-forge/qt/5.12.9/download/linux-64/qt-5.12.9-h1f2b2cb_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/sip-4.18.1-py36hfc679d8_0.tar.bz2#184590a8060ea96fa56ad8e5f2077057
 https://conda.anaconda.org/conda-forge/linux-64/six-1.11.0-py36_1.tar.bz2#30debff68f9e2daa8cb1cd08210c282f
 https://conda.anaconda.org/conda-forge/linux-64/tornado-5.1.1-py36h470a237_0.tar.bz2#b49e27d2e4c2af9aa7be789efb70e3df
@@ -83,7 +83,7 @@ https://conda.anaconda.org/conda-forge/noarch/twython-3.7.0-py_0.tar.bz2#e259fa6
 https://conda.anaconda.org/conda-forge/linux-64/biopython-1.72-py36_0.tar.bz2#83a9804a43bf6f70f0878e33e4a4dadc
 https://conda.anaconda.org/conda-forge/linux-64/fastcluster-1.1.25-py36hf8a1672_0.tar.bz2#2e3db00538f61cf0aae97d931cbe01ab
 https://conda.anaconda.org/conda-forge/linux-64/h5py-2.8.0-py36hb794570_1.tar.bz2#03389fa8d2af92930932d315abe3c491
-https://conda.anaconda.org/conda-forge/linux-64/matplotlib-3.0.0-py36h0b34cb6_0.tar.bz2#bec28fbc074343b991251dc898830097
+https://anaconda.org/conda-forge/matplotlib/3.3.1/download/linux-aarch64/matplotlib-3.3.1-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/mkl_fft-1.0.6-py36_0.tar.bz2#77082004e8d78bbd90423f5a4bcf635e
 https://conda.anaconda.org/conda-forge/linux-64/mkl_random-1.0.1-py36_0.tar.bz2#8c711fdc9eb0596b54d342d84b0f7e42
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.15.1-py36h1d66e8a_0.tar.bz2#2ed762dd94be9404a3161c7c76f9705f
